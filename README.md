@@ -11,3 +11,7 @@
 ## Contacts
 
 - :email: Email: lamlethanhthe@gmail.com
+
+## Github Link
+
+- For other private distribution, please refer to this [repository](https://github.com/lltthe/HCMUS.CS_Master.VNCelebFaceRecognition).
