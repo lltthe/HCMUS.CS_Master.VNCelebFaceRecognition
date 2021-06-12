@@ -15,3 +15,9 @@
 ## Github Link
 
 - For other private distribution, please refer to this [repository](https://github.com/lltthe/HCMUS.CS_Master.VNCelebFaceRecognition).
+
+## Data Links
+
+- Based dataset that we inspired from: [onedrive](https://studenthcmusedu-my.sharepoint.com/:u:/g/personal/20c11053_student_hcmus_edu_vn/Eej0p597V_5Lv0eehYbqqfcBIy6f1haoZp1eMP9CvLxZuw?e=b5kdAN)
+
+- Self-built dataset: [onedrive](https://studenthcmusedu-my.sharepoint.com/:u:/g/personal/20c11053_student_hcmus_edu_vn/EW5xbCIcRelGmKjEoz0XRUMBM943T73Q3SfJcJTGEA1OuA?e=6R2hDB)
